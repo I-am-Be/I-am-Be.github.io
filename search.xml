@@ -32,10 +32,10 @@
     
     <entry>
       <title></title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<hr><p>title:友链<br>data:2023-5-2</p><hr>]]></content>
+        <content type="html"><![CDATA[<hr><p>title:音乐<br>data:2023-5-2</p><hr>]]></content>
       
     </entry>
     
@@ -54,10 +54,10 @@
     
     <entry>
       <title></title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<hr><p>title:音乐<br>data:2023-5-2</p><hr>]]></content>
+        <content type="html"><![CDATA[<hr><p>title:友链<br>data:2023-5-2</p><hr>]]></content>
       
     </entry>
     
