@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>博客文本输入</title>
+      <link href="/2023/09/10/%E5%AD%97%E7%AC%A6%E6%A0%BC%E5%BC%8F/"/>
+      <url>/2023/09/10/%E5%AD%97%E7%AC%A6%E6%A0%BC%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="常见输入"><a href="#常见输入" class="headerlink" title="常见输入"></a>常见输入</h2><h3 id="简单内容"><a href="#简单内容" class="headerlink" title="简单内容"></a>简单内容</h3><p>直接输入内容“Hello world”</p><h3 id="文字链接"><a href="#文字链接" class="headerlink" title="文字链接"></a>文字链接</h3><p>“[]”框内为显示内容“（）”内填入网址<br><a href="https://www.behe.fun/">Be’blog</a></p><h3 id="分类标题"><a href="#分类标题" class="headerlink" title="分类标题"></a>分类标题</h3><p>“###”为小表标题<br>“##”为大标题</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> -test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World.</title>
       <link href="/2023/05/05/hello-world/"/>
       <url>/2023/05/05/hello-world/</url>
