@@ -26,7 +26,7 @@ setInterval(() => {
   if (second > 0) {
     time[4] = nol(second);
   }
-  if ((Number(time[2])<21) && (Number(time[2])>7)){
+  if ((Number(time[2])<15) && (Number(time[2])>0)){
     currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp' title='距离百年老店也就差不到一百年~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
   }
   else{
